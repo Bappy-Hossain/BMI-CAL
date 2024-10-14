@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1 {
+  font-weight: 300;
+}
+h2 {
+  font-weight: 600;
+}
+h4 {
+  font-weight: 900;
+}
